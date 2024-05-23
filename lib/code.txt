@@ -1,0 +1,22 @@
+ //     FlutterSwitch(
+          //   width: 150.0,
+          //   height: 80,
+          //   valueFontSize: 25.0,
+          //   toggleSize: 70,
+          //   toggleColor: Colors.black,
+          //   value: switchController2.switchValue.value,
+          //   borderRadius: 40,
+          //   padding: 8,
+          //   showOnOff: true,
+          //   activeColor: Colors.green,
+          //   inactiveColor: Colors.red,
+          //   activeText: "ON",
+          //   inactiveText: "OFF",
+          //   activeTextColor: Colors.white,
+          //   inactiveTextColor: Colors.white,
+          //   activeToggleColor: Colors.white,
+          //   inactiveToggleColor: Colors.white,
+          //   onToggle: (value) {
+          //     switchController2.handleSwitchPressed('switch_2');
+          //   },
+          // )
